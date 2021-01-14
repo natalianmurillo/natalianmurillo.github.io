@@ -147,7 +147,7 @@ h2 {
 .content-body {
   line-height: 1.5;
   color: rgba(0,0,0,.75);
-  font-style:'Garamond', sans-serif;
+  font-style:'Times New Roman', sans-serif;
 }
 
 .intro{
@@ -232,5 +232,5 @@ h2 {
 }
 
 .white-text {
-  color: white;
+  color: black;
 }
