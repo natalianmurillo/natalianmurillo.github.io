@@ -157,6 +157,11 @@ h2 {
   font-size: 2rem;
 }
 
+.details{
+  font-style:'Times New Roman', sans-serif;
+  color: grey;
+}
+
 
 /*PROJECTS*/
 .project-card {
