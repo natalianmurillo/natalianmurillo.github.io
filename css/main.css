@@ -2,6 +2,7 @@ body {
   font-family: 'Garamond', sans-serif;
   background: #F8F8F8;
   margin: 50px;
+  width:100%;
 }
 
 * {
@@ -86,7 +87,7 @@ body {
   width: 100%;*/
   margin-top: auto;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 #down-arrow a {
