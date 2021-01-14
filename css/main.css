@@ -36,7 +36,7 @@ body {
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
   background: #F8F8F8; /*background color to blue*/
-  margin-top: 0; /*no bottom margin*/
+  margin-top: 100px; /*no bottom margin*/
 
   display: flex;
   flex-direction: column;
@@ -48,7 +48,7 @@ body {
   font-size: 1.2em;
   color: black;
   text-align: center;
-  padding-bottom: 150px;
+  padding-bottom: 20px;
 }
 
 .jumbotron-text h1 {
@@ -59,7 +59,7 @@ body {
 }
 
 .jumbotron-text p {
-  margin: 0;
+  margin: 50px;
 }
 
 /*SOCIAL LINKS*/
