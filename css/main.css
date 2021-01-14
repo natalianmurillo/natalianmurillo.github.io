@@ -1,6 +1,6 @@
 body {
   font-family: 'Garamond', sans-serif;
-  background: white;
+  background: #F8F8F8;
   margin: 0;
 }
 
@@ -36,7 +36,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
-  background: white; /*background color to blue*/
+  background: #F8F8F8; /*background color to blue*/
   margin-top: 0; /*no bottom margin*/
 
   display: flex;
@@ -105,7 +105,7 @@ body {
 }
 
 .white {
-  background: white;
+  background: #F8F8F8;
 }
 
 .side-content {
@@ -151,7 +151,7 @@ h2 {
 .card {
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: #F8F8F8;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
   margin-bottom: 30px;
@@ -159,7 +159,7 @@ h2 {
 
 .card-header {
   padding: .75rem 1.25rem;
-  background-color: white;
+  background-color: #F8F8F8;
   border-bottom: 1px solid rgba(0,0,0,.075);
   border-top-left-radius: .25rem;
   border-top-right-radius: .25rem;
@@ -173,7 +173,7 @@ h2 {
 h4 {
   margin: 0;
   font-weight: 400;
-  color: grey;
+  color: pink;
 }
 
 .job-title {
@@ -184,7 +184,7 @@ h4 {
 .project-card {
   display: flex;
   flex-direction: row;
-  background-color: white;
+  background-color: #F8F8F8;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: 5px;
   margin-bottom: 30px;
@@ -220,8 +220,8 @@ h4 {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: white;
-  background: #31b0d5;
+  color: black;
+  background: #F8F8F8;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -229,7 +229,7 @@ h4 {
 
 /*CONTACT*/
 .blue {
-  background: #3498db;
+  background: #F8F8F8;
   text-align: center;
 }
 
@@ -245,8 +245,8 @@ h4 {
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #1d6fa5;
-  color: #fff;
+  background: #F8F8F8;
+  color: black;
   -webkit-transition: .5s ease all;
   transition: .5s ease all;
 }
