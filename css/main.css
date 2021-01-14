@@ -87,7 +87,7 @@ body {
   width: 100%;*/
   margin-top: auto;
   text-align: center;
-  margin-bottom: 0px;
+  margin-bottom: 50px;
 }
 
 #down-arrow a {
@@ -146,11 +146,14 @@ h2 {
 .content-body {
   line-height: 1.5;
   color: rgba(0,0,0,.75);
+  font-style:'Garamond', sans-serif;
 }
 
 .intro{
   color:pink;
-  font-family: "Bookman, URW Bookman L, serif";
+  font-family: 'Bookman', URW Bookman L, serif;
+  font-weight: 200;
+  font-size: 2rem;
 }
 
 
