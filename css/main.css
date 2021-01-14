@@ -15,11 +15,12 @@ body {
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
   display: flex;
-  justify-content: right;
+  justify-content: center;
+  float: right;
 }
 
 .navbar a {
-  font-weight: 200;
+  font-weight: 70;
   color: black;
   padding: 14px 16px;
   text-decoration: none;
@@ -36,7 +37,7 @@ body {
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
   background: white; /*background color to blue*/
-  margin-bottom: 0; /*no bottom margin*/
+  margin-top: 0; /*no bottom margin*/
 
   display: flex;
   flex-direction: column;
@@ -44,8 +45,8 @@ body {
 
 .jumbotron-text {
   /*TAGLINE UNDER NAME*/
-  font-weight: 400;
-  font-size: 2em;
+  font-weight: 50;
+  font-size: 1.2em;
   color: black;
   text-align: center;
   padding-bottom: 150px;
@@ -53,7 +54,7 @@ body {
 
 .jumbotron-text h1 {
   /*YOUR NAME*/
-  font-weight: 800;
+  font-weight: 200;
   font-size: 3em;
   margin-bottom: 0;
 }
