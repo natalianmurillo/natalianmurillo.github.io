@@ -92,6 +92,16 @@ a:active {
 table {
     border-collapse: separate;
     border-spacing: 2px;
+    box-sizing:border-box;
+    width: 1000px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    -webkit-border-horizontal-spacing: 10px;
+    -webkit-border-vertical-spacing: 10px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
 }
 
 .style1 {
