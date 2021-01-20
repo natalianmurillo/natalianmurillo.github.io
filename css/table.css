@@ -104,6 +104,18 @@ table {
     margin-inline-end: auto;
 }
 
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
 .style1 {
 	font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
 	padding-left: 50px;
@@ -143,7 +155,8 @@ li {
 
 td {
 	vertical-align: top;
-	line-height: 145%;
+	line-height: 120%;
+	display:table-cell;
 }
 
 img {
