@@ -90,16 +90,22 @@ a:active {
 	text-decoration: none;
 }
 
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
 .style1 {
-	font-family: "kandal", Georgia;
+	font-family: font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
 	padding-left: 50px;
 	padding-right: 50px;
+	font-style:italic;
 }
 
 .style2 {
 	font-size: 16px;
 	color: #000000;
-	font-family: "kandal", Georgia; 
+	font-family: font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
 	font-weight: 700;
 	font-style: italic;	
 }
@@ -107,7 +113,7 @@ a:active {
 .style3 {
 	font-size: 14px;
 	color: #000000;
-	font-family: "kandal", Georgia; 
+	font-family: font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
 	font-weight: 400;
 	font-style: italic;	
 }
@@ -115,7 +121,7 @@ a:active {
 .style4 {
 	font-size: 10px;
 	color: #000000;
-	font-family: "kandal", Georgia; 
+	font-family: font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
 	font-weight: 400;
 	font-style: italic;	
 }
