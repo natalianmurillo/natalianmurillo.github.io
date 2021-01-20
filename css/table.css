@@ -9,6 +9,9 @@
   width: 100%; /* Full width */
   display: flex;
   justify-content: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
+  background: #F8F8F8;
+  margin: 0;
 }
 
 .navbar a {
