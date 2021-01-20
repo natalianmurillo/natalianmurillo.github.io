@@ -5,6 +5,10 @@ body {
   width:100%;
 }
 
+body.bookshelf {
+  background: white;
+}
+
 * {
   box-sizing: border-box
 }
