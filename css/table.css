@@ -79,3 +79,10 @@ body {
 	padding-left: 50px;
 	padding-right: 50px;
 }
+
+img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
