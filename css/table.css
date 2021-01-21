@@ -38,3 +38,8 @@ body {
             font-size: 13px;
         }
     }
+
+  td {
+	  vertical-align: top;
+  	line-height: 145%;
+  }
