@@ -82,6 +82,13 @@ body {
 	padding-right: 50px;
 }
 
+a:link {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	transition: color .2s ease-out;
+}
+
 img {
     float: left;
     width:  300px;
