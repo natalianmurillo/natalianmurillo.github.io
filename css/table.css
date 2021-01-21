@@ -36,6 +36,10 @@ body {
   visibility: hidden;
 }
 
+* {
+  box-sizing: border-box
+}
+
 @media (min-width: 858px) {
         html {
             font-size: 13px;
