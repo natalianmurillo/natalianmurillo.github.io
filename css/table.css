@@ -9,6 +9,18 @@ body {
  font-size: 13px;
 }
 
+/*NAVBAR*/
+.navbar {
+  background-color: white;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  display: flex;
+  justify-content: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
+   margin: 0;
+}
+
 @media (min-width: 858px) {
         html {
             font-size: 13px;
