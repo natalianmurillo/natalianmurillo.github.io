@@ -73,3 +73,9 @@ body {
 	  vertical-align: top;
   	line-height: 145%;
   }
+
+.style1 {
+	font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
+	padding-left: 50px;
+	padding-right: 50px;
+}
