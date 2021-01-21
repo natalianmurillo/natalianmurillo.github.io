@@ -93,3 +93,8 @@ tbody {
     vertical-align: middle;
     border-color: inherit;
 }
+
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
