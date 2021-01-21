@@ -29,6 +29,13 @@ body {
   float: left;
 }
 
+.anchor {
+  display: block;
+  position: relative;
+  top: -70px;
+  visibility: hidden;
+}
+
 @media (min-width: 858px) {
         html {
             font-size: 13px;
