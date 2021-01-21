@@ -21,6 +21,14 @@ body {
    margin: 0;
 }
 
+.navbar a {
+  font-weight: 70;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
+}
+
 @media (min-width: 858px) {
         html {
             font-size: 13px;
