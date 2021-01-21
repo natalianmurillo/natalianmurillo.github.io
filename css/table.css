@@ -87,3 +87,9 @@ img {
     height: 100px;
     object-fit: cover;
 }
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
