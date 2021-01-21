@@ -18,6 +18,7 @@ body {
   display: flex;
   justify-content: left;
   font-family: -apple-system, BlinkMacSystemFont, 'Roboto','Helvetica Neue', sans-serif;
+  font-size: 14px;
 }
 
 .navbar a {
